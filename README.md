@@ -9,7 +9,7 @@ Full stack Developer
 * 🌍  I'm based in Egypt , Alexandria
 * 🖥️  See my portfolio at [My Profile](http://my.app.com)
 * ✉️  You can contact me at [mahmoudyoussef.dev@gmail.com](mailto:mahmoudyoussef.dev@gmail.com)
-* 🧠  I'm learning Dev Ops
+* 🧠  I'm learning Asp.net
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/MahmoudAhmed294" target="_blank" rel="noreferrer"><img
